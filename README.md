@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kasim Pasaoglu</h1>
 <h3 align="center">A student front-end developer</h3>
 
-- [My Page](kasimpasaoglu.github.io)
+- [My Page](https://kasimpasaoglu.github.io/)
 
 - 🌱 I’m currently learning **HTML,CSS,JS,React** with my teacher **@hakanyalcinkaya**
 
