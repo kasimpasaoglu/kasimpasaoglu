@@ -3,7 +3,6 @@
 
 - [My Page](https://kasimpasaoglu.github.io/)
 
-- 🌱 I’m currently learning **HTML,CSS,JS,React** with my teacher **@hakanyalcinkaya**
 
 - 📫 How to reach me **kasimpasaoglu@windowslive.com**
 
