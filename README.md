@@ -37,5 +37,5 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasimpasaoglu&style=flat-square">  
+  <img src="https://komarev.com/ghpvc/?username=kasimpasaoglu&color=red&style=plastic">  
 </p>
