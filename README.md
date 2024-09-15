@@ -35,7 +35,4 @@
   <img src="https://img.shields.io/badge/-C%23%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/>
   <img src="https://img.shields.io/badge/.Net%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB-white?style=for-the-badge&logo=dotnet&logoColor=white&color=%23512BD4" alt="dotnet"/>
 </p>
-<hr>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kasimpasaoglu&color=red&style=plastic">  
-</p>
+
