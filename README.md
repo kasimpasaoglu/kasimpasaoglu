@@ -6,10 +6,13 @@
 <h3 align="center">Featured Projects</h3>
 <p align="center">
   <a href="https://www.icdsinerji.com" target="_blank">
-    <img width="80" height="60" src="https://www.icdsinerji.com/_next/image?url=%2Fassets%2Flogo%2Ficd-logo-only.png&w=384&q=75"/>
+    <img width="80" height="120" src="https://www.icdsinerji.com/_next/image?url=%2Fassets%2Flogo%2Ficd-logo-only.png&w=384&q=75"/>
   </a>
   <a href="https://triple-h-website.vercel.app/tr" target="_blank">
-    <img width="120" height="60" src="https://i.ibb.co/6rzgZzs/logo-beyaz-1.webp"/>
+    <img width="120" height="120" src="https://i.ibb.co/6rzgZzs/logo-beyaz-1.webp"/>
+  </a>
+  <a href="http://esnafagetirdemo.runasp.net/login/Index?deviceId=githublink" target="_blank">
+    <img width="120" height="120" src="http://esnafagetirdemo.runasp.net/images/login/logo.png"/>
   </a>
 </p>
 
