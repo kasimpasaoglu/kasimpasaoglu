@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi , I'm Kasim Pasaoglu</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">
@@ -15,6 +16,23 @@
     <img width="120" height="120" src="http://esnafagetirdemo.runasp.net/images/login/logo.png"/>
   </a>
 </p>
+
+<h3 align="center">On-Live Demo Projects</h3>
+
+  - [Adventure Works Store 🛒](https://adventurewoks.netlify.app/)
+    - A modern e-commerce store with product filtering, authentication, and cart management.
+    - Built with **TypeScript, React (Vite), Tailwind CSS,** and **Context API.**
+    - Uses the AdventureWorks API for fetching product data.
+
+  - [Api For Adventure Works Store 🖥️](https://adventureworksapi-main.up.railway.app/swagger)
+    - **RESTful API** that powers the *Adventure Works Store.*
+    - Built using **C#, .NET Web API,** and **MSSQL.**
+    - Provides endpoints for authentication, products, categories, and cart operations.
+
+  - [E-Commerce 🛒 ](http://wissenstore.runasp.net/) 
+    - A class project developed course at *Bahçeşehir University Wissen Akademie.*
+    - Features product browsing, filtering.
+    - Built using **C#, .NET MVC,** and **SQL Server.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
