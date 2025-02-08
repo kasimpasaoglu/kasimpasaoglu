@@ -33,6 +33,18 @@
     - A class project developed course at *Bahçeşehir University Wissen Akademie.*
     - Features product browsing, filtering.
     - Built using **C#, .NET MVC,** and **SQL Server.**
+   
+<h3 align="center">Other Projects</h3>
+
+  - [Esnafa Gelir ReactNative](https://github.com/kasimpasaoglu/EsnafaGelir-ReactNative)
+    - A mobile application that uses the [Esnafa Getir](http://esnafagetirdemo.runasp.net/login/Index?deviceId=githublink) project as a WebView.
+    - Built with **Expo.**
+    - Developed to test how a **mobile web project** appears on different devices.
+    - Safe Area handling has been applied for better UX.
+  
+  - [RickAndMorty Api React Native](https://github.com/kasimpasaoglu/RickAndMorty-ReactNative)
+    - A practice project using the **Rick and Morty API** to reinforce React Native fundamentals.
+    - Focuses on **infinite scrolling** and writing **CSS within React Native.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
